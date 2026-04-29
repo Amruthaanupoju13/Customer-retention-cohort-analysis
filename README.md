@@ -33,6 +33,7 @@ This project analyzes customer retention using cohort analysis. It includes data
 
 
 ## 📁 Project Structure
+## 📁 Project Structure
 
 ├── sql/
 │   ├── data_cleaning.sql
@@ -40,11 +41,13 @@ This project analyzes customer retention using cohort analysis. It includes data
 │   ├── cohort_analysis.sql
 │   ├── customer_segmentation.sql
 │   └── growth_analysis.sql
-│
+
 ├── images/
 │   ├── cohort_heatmap.png
 │   └── retention_trend.png
-│
+
+├── customer_retention_dashboard.pbix
+
 └── README.md
 ## 📊 Power BI Dashboard
 
