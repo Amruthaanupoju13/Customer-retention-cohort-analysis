@@ -30,10 +30,9 @@ This project analyzes customer retention using cohort analysis. It includes data
 ![Trend](images/retention_trend.png)
 
 ---
-
-
 ## 📁 Project Structure
 
+```
 ├── sql/
 │   ├── data_cleaning.sql
 │   ├── revenue_analysis.sql
@@ -48,4 +47,5 @@ This project analyzes customer retention using cohort analysis. It includes data
 ├── customer_retention_dashboard.pbix
 
 └── README.md
+```
 
