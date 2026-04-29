@@ -31,4 +31,22 @@ This project analyzes customer retention using cohort analysis. It includes data
 
 ---
 
-## 📂 Project Structure
+
+## 📁 Project Structure
+
+├── sql/
+│   ├── data_cleaning.sql
+│   ├── revenue_analysis.sql
+│   ├── cohort_analysis.sql
+│   ├── customer_segmentation.sql
+│   └── growth_analysis.sql
+│
+├── images/
+│   ├── cohort_heatmap.png
+│   └── retention_trend.png
+│
+└── README.md
+## 📊 Power BI Dashboard
+
+Download the dashboard here:
+[Download Dashboard](./customer_retention_dashboard.pbix)
